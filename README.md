@@ -29,8 +29,7 @@ iv. Age: the age of the individual in years
 v. BMI: the Body Mass Index of the individual, which is calculated as weight divided by height
 squared (kg/m2)
 
-vi. Absenteeism time in hours: the number of hours the individual was absent from work due to
-a medical issue.
+vi. Absenteeism time in hours: the number of hours the individual was absent from work due to a medical issue.
 
 The aim of the dataset is to predict an individual's BMI based on the other features provided. The dataset has been preprocessed to remove any missing values and ensure that it is ready for machine learning algorithms.
 
