@@ -4,11 +4,12 @@
 
 This study looked into the validity and precision of employing different machine learning methods to classify BMI.
 
-•	Comprehend the dataset.
+•	Comprehending the dataset.
 
-•	Create classification models for predicting various BMI categories. 
+•	Creating classification models for predicting different BMI categories.
 
-•	Additionally, tune the hyperparameters and compare the assessment metrics of different classification methods.
+•	Tuning hyperparameters and comparing the assessment metrics of different classification methods.
+
 
 # Methods
 ## Data collection method and dataset
